@@ -1,3 +1,10 @@
+**IMPORTANT PLEASE READ CAREFULLY:**
+**(UNRESTRICTED SOFTWARE)** 
+##  LinkOS_SDK license ENDUSER [LICENSE AGREEMENT](http://link-os.github.io/Zebra_SDK_EULA.pdf)
+<br/>
+<br/>
+
+
 ## 1. Introduction
 In iOS 11, Apple introduced the [Core NFC Framework](https://developer.apple.com/documentation/corenfc?language=objc), which enables apps to detect Near Field Communication (NFC) tags. This is great news for developers writing iOS apps to work with Zebra mobile printers, because all Zebra mobile printers are NFC enabled. This makes it easy for apps to obtain the printer's Serial Number to pair with Bluetooth. This ZebraPrinterNFCDemo demonstrates how to read the NFC tags on Zebra mobile printers and how to pair with Bluetooth Classic or connect Bluetooth Low Energy, without going through the settings on the iOS device.
  
